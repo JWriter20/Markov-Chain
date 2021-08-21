@@ -1,2 +1,2 @@
 # Markov-Chain
-A very rudimentary version of a Markov-Chain
+An aplication of a Markov-Chain that uses a passage of text (a book for example) to generate a random passage that makes gramatical sense. 
